@@ -12,7 +12,10 @@ public class Ej2
         for(int i=fin;i>=0;i--)
         {
             System.out.print(S1.charAt(i));
+<<<<<<< HEAD
             System.out.print("Pull");
+=======
+>>>>>>> 786e7c3d99465463e13a734860a94a0e080c02fc
         }
     }
 }
