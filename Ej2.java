@@ -12,7 +12,6 @@ public class Ej2
         for(int i=fin;i>=0;i--)
         {
             System.out.print(S1.charAt(i));
-            System.out.print("Generar conflicto remoto");
         }
     }
 }
