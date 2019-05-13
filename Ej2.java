@@ -13,5 +13,6 @@ public class Ej2
         {
             System.out.print(S1.charAt(i));
         }
+        System.out.print("Prueba merge");
     }
 }
